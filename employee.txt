@@ -1,0 +1,5 @@
+E160001,Nguyen Hong Hiep,2000-06-12,EM,male,YZ[IhK
+E160240,Tran Dinh Khanh,2002-07-15,EM,male,Z[\KhI
+E140449,Le Buu Nhan,2002-07-10,EM,male,hLM\]^
+E160798,Truong Le Minh,2002-12-03,EM,male,]^_WRS
+E160052,Hoa Doan,1990-06-05,MA,male,YZ[\]^

@@ -1,0 +1,2 @@
+A002,Macbook Pro 2016,Silver,1000,2.2,5,5
+A001,Samsung Projector,White,500,3.2,10,8
